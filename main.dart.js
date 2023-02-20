@@ -86290,7 +86290,7 @@ $.ap().toString
 r=$.b_()
 r.aC()
 r.az(!0)
-A.aMP($.ab(),"/banner",t.z)},
+A.aMP($.ab(),"/dashboard",t.z)},
 $S:118}
 A.a7b.prototype={
 $1(a){var s
