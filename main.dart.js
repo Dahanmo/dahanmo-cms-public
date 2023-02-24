@@ -89684,8 +89684,8 @@ $1(a){},
 $S:2}
 A.arj.prototype={
 $1(a){var s=this,r=null,q=s.b,p=s.c,o=q.ay.w[p].c
-if(o==="member")return A.el(new A.arh(s.a,q,p),new A.q(8,4,8,4),"\uc6b4\uc601\uc9c4 \ud574\uc81c",r)
-else if(o==="manager")return A.el(new A.ari(s.a,q,p),new A.q(8,4,8,4),"\uc6b4\uc601\uc9c4 \uc784\uba85",r)
+if(o==="member")return A.el(new A.arh(s.a,q,p),new A.q(8,4,8,4),"\uc6b4\uc601\uc9c4 \uc784\uba85",r)
+else if(o==="manager")return A.el(new A.ari(s.a,q,p),new A.q(8,4,8,4),"\uc6b4\uc601\uc9c4 \ud574\uc81c",r)
 else return A.aj(r,r,B.h,r,r,r,r,r,r,r,r,r,r)},
 $S:55}
 A.arh.prototype={
